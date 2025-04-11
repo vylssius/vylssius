@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vylssius
-- 👀 I’m interested in: nerd stuff
-- 🌱 I’m currently learning: probably nerd stuff
-- 💞️ I’m looking to collaborate on: nothing (alpha male moment)
-- 📫 How to reach me: please dont
+- 👀 I’m interested in: you
+- 🌱 I’m currently learning: how to walk
+- 💞️ I’m looking to collaborate on: anything
+- 📫 How to reach me: Linktr.ee/Vylssius
 
 <!---
 vylssius/vylssius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
